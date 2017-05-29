@@ -1,3 +1,0 @@
-Testing the git/github use/interaction via the local and remote locations.
-
-Also, cheese. 
